@@ -26,9 +26,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -46,9 +44,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -84,9 +80,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -104,9 +98,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -142,9 +134,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -162,9 +152,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -200,9 +188,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -220,9 +206,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -258,9 +242,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -278,9 +260,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -316,9 +296,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -336,9 +314,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -374,9 +350,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -394,9 +368,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -432,9 +404,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -452,9 +422,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -490,9 +458,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -510,9 +476,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -548,9 +512,7 @@
                     "mandatory": [
                         "left_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
@@ -568,9 +530,7 @@
                     "mandatory": [
                         "right_shift"
                     ],
-                    "optional": [
-
-                    ]
+                    "optional": []
                 }
             },
             "to": [
