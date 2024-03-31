@@ -1,0 +1,101 @@
+{
+  "editor.lightbulb.enabled": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.insertSpaces": true,
+  "editor.lineNumbers": "relative",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "files.trimTrailingWhitespace": true,
+  "javascript.suggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": false,
+  "liveshare.authenticationProvider": "GitHub",
+  "editor.minimap.enabled": false,
+  "json.schemas": [],
+  "extensions.ignoreRecommendations": true,
+  "workbench.settings.editor": "ui",
+  "editor.formatOnSave": true,
+  "prettier.requireConfig": true,
+  "explorer.confirmDelete": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["<C-j>"],
+      "after": ["<Down>"]
+    },
+    {
+      "before": ["<C-h>"],
+      "after": ["<Left>"]
+    },
+    {
+      "before": ["<C-k>"],
+      "after": ["<Up>"]
+    },
+    {
+      "before": ["<C-l>"],
+      "after": ["<Right>"]
+    },
+  ],
+  "vim.leader": "<space>",
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["<leader>", "e"],
+      "commands": ["workbench.view.explorer"]
+    },
+    {
+      "before": ["g", "p", "d"],
+      "commands": ["editor.action.peekDefinition"]
+    },
+    {
+      "before": ["g", "h"],
+      "commands": ["editor.action.showDefinitionPreviewHover"]
+    },
+    {
+      "before": ["g", "i"],
+      "commands": ["editor.action.goToImplementation"]
+    },
+    {
+      "before": ["g", "p", "i"],
+      "commands": ["editor.action.peekImplementation"]
+    },
+    {
+      "before": ["g", "q"],
+      "commands": ["editor.action.quickFix"]
+    },
+    {
+      "before": ["g", "r"],
+      "commands": ["editor.action.referenceSearch.trigger"]
+    },
+    {
+      "before": ["g", "t"],
+      "commands": ["editor.action.goToTypeDefinition"]
+    },
+    {
+      "before": ["g", "p", "t"],
+      "commands": ["editor.action.peekTypeDefinition"]
+    }
+  ],
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "debug.allowBreakpointsEverywhere": true,
+  "window.zoomLevel": -1
+}
+
