@@ -110,8 +110,11 @@
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "editor.inlayHints.enabled": "offUnlessPressed",
-  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
   "debug.allowBreakpointsEverywhere": true,
-  "window.zoomLevel": -1
+  "window.zoomLevel": -1,
+  "window.commandCenter": false,
+  "workbench.activityBar.location": "top",
+  "window.customTitleBarVisibility": "windowed",
+  "workbench.layoutControl.enabled": false
 }
-
